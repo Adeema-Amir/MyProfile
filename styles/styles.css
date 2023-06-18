@@ -1,0 +1,46 @@
+body > div:first-child {
+  overflow-x: hidden;
+}
+
+
+#html{
+  width: 80px;
+  height: 40px;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.866);
+}
+
+
+#javascript{
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.866);
+}
+
+#javascripth{
+  width: 100px;
+  height: 50px;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.866);
+}
+#javascripthh{
+  width: 110px;
+  height: 50px;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.866);
+}
+
+#sharp{
+  width: 130px;
+  height: 40px;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.866);
+}
+
+#csharp{
+  width: 130px;
+  height: 80px;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.866);
+}
